@@ -36,8 +36,9 @@ body {
     height: 40rem;
 }
 
-.instagram-continue img {
-    height: 7rem;
+.instagram-logo {
+    height: 4rem;
+    margin-bottom: 10px;
 }
 
 .instagram-continue {
@@ -64,11 +65,8 @@ body {
     min-height: 19rem;
 }
 
-.instagram-logo {
-    height: 3rem;
-}
-
 .profile-photo {
+    height: 9rem;
     display: flex;
     justify-content: center;
     align-items: center;
